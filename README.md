@@ -87,10 +87,14 @@ Hope this code is helpful. I would appreciate you citing us in your paper. 😊
 
 ## License -->
 
-## My-own-Reproduce
+## My Own Reproduce Report
 ### The result on the orginal paper:  
 ![2024-03-28 02-40-15 的螢幕擷圖](https://github.com/ChiShengChen/NICE-EEG/assets/22126443/4f03856c-96d3-48b7-9435-c48969399233)
 
+### Need to clearify
+ - [ ] How to run the overall accuracy (SSL/data split)
+ - [ ] How to run the EEG encoder accuracy (SSL/data split)
+ - [ ] How to run the image encoder accuracy (SSL/data split)
 
 
 
